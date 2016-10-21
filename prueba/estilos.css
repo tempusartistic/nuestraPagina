@@ -1,0 +1,11 @@
+/* Fuentes personalizadoas */
+
+@font-face{
+font-family: neuropol;
+src:url(fonts/neuropol.ttf) format('truetype');
+
+}
+
+h1, h2, h3 {
+	font-family: neuropol;
+}
